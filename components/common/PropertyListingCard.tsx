@@ -1,4 +1,4 @@
-mimport { View, Text, StyleSheet, ImageBackground } from "react-native";
+import { View, Text, StyleSheet, ImageBackground } from "react-native";
 import EvilIcons from "@expo/vector-icons/EvilIcons";
 import MaterialIcons from "@expo/vector-icons/MaterialIcons";
 import { PropertyListingProps } from "@/interfaces";
