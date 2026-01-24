@@ -3,6 +3,7 @@ import PropertyListingCard from "./common/PropertyListingCard";
 import { useState } from "react";
 import { PropertListing, PropertyListingProps } from "../interfaces";
 
+
 const PropertyListing = ({ listings }: PropertListing) => {
   return (
     <View
